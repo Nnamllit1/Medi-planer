@@ -1,4 +1,4 @@
-package com.nnamllit.mediplaner
+package com.nnamllit.mediplanner
 
 import org.junit.Test
 

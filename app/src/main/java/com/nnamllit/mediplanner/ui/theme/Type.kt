@@ -1,4 +1,4 @@
-package com.nnamllit.mediplaner.ui.theme
+package com.nnamllit.mediplanner.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

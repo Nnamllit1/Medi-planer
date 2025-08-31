@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.nnamllit.mediplaner"
+    namespace = "com.nnamllit.mediplanner"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.nnamllit.mediplaner"
+        applicationId = "com.nnamllit.mediplanner"
         minSdk = 21
         targetSdk = 35
         versionCode = 1

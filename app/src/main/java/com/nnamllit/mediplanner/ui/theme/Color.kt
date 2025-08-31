@@ -1,4 +1,4 @@
-package com.nnamllit.mediplaner.ui.theme
+package com.nnamllit.mediplanner.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

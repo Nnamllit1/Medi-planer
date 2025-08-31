@@ -2,4 +2,8 @@
 <resources>
 
     <style name="Theme.MediPlaner" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.MediPlaner.Alarm" parent="Theme.MediPlaner">
+        <!-- Add specific attributes for the alarm theme here if needed -->
+    </style>
 </resources>
